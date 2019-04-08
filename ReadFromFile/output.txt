@@ -1,0 +1,16 @@
+Naim 1
+Sarker 1
+Uddin 2
+hello 1
+is 1
+my 1
+naIm 1
+naim 3
+name 1
+sarker 1
+uddin 1
+world 1
+
+Total Word = 15
+
+Total Unique Word = 12
